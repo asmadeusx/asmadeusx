@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![stats](https://github-readme-stats.vercel.app/api?username=asmadeusx&show_icons=true&theme=dark)<br>
+![stats](https://github-readme-stats.vercel.app/api?username=asmadeusx&show_icons=true&theme=dark&disable_animations=true)<br>
 ![stats](https://github-readme-stats.vercel.app/api/top-langs?username=asmadeusx&layout=compact&card_width=445&theme=dark)
 
 <!--
