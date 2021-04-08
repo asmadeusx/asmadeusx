@@ -1,13 +1,7 @@
 # Hi there 👋
 
-I’m currently learning 
-<img src="./img/html5.svg">
-<img src="./img/css.svg">
-<img src="./img/sass.svg">
-<img src="./img/javascript.svg">
-<br>
-work in  <img src="./img/vscode.svg"> and use 
-<img src="./img/npm.svg"><img src="./img/fontawesome.svg">
+## I’m currently learning <img src="./img/html5.svg"><img src="./img/css.svg"><img src="./img/sass.svg"><img src="./img/javascript.svg">
+## work in  <img src="./img/vscode.svg"> and use <img src="./img/npm.svg"><img src="./img/fontawesome.svg">
 
 ![stats](https://github-readme-stats.vercel.app/api?username=asmadeusx&show_icons=true&theme=dark&disable_animations=true)<br>
 ![stats](https://github-readme-stats.vercel.app/api/top-langs?username=asmadeusx&layout=compact&card_width=445&theme=dark)
