@@ -6,10 +6,10 @@ I’m currently learning :
 <img src="./img/sass.svg">
 <img src="./img/javascript.svg">
 <br>
-working in :
+work in :
 <img src="./img/vscode.svg">
 <br>
-and using :
+and use :
 <img src="./img/npm.svg"><img src="./img/fontawesome.svg">
 <br>
 
