@@ -10,5 +10,5 @@
 
 [![Spotify](https://spotify-now-playing-asmadeusx.vercel.app/api/spotify-playing)](https://open.spotify.com/user/0we8v3womvad5b9olz7r43e98)
 
-<p align="left" textalign="right"> Weather in my hometown : </p> 
-<img align="left" src="https://weather-icon.journeyad.repl.co/@rostov-on-don?v=1" width="300px">
+### Weather in my hometown :
+![weather-icon](https://weather-icon.journeyad.repl.co/@rostov-on-don?v=1)
