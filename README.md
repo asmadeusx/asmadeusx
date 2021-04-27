@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 ### 🎧 Spotify Playing
 
-[<img src="https://spotify-now-playing-asmadeusx.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/0we8v3womvad5b9olz7r43e98)
+[![Spotify](https://spotify-now-playing-asmadeusx.vercel.app/api/spotify-playing)](https://open.spotify.com/user/0we8v3womvad5b9olz7r43e98)
